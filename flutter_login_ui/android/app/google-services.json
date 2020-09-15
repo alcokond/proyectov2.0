@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798463984163",
+    "firebase_url": "https://covidforce-fef58.firebaseio.com",
+    "project_id": "covidforce-fef58",
+    "storage_bucket": "covidforce-fef58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798463984163:android:a1f5bb2c3468540f7ce796",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798463984163-7cgup99i6r6vh7vf85afjlhunq6ebdj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBERQ_gWxkxftPrf356gbC-2J7WxOueoGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798463984163-7cgup99i6r6vh7vf85afjlhunq6ebdj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
